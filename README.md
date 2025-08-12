@@ -22,6 +22,7 @@ Currently, I’m diving deeper into:
 #### 🚀 Frontend
 ![React](https://img.shields.io/badge/-React-61DBFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
@@ -29,11 +30,11 @@ Currently, I’m diving deeper into:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat)
 
 #### ☁ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
@@ -42,8 +43,8 @@ Currently, I’m diving deeper into:
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishabhRawat&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhRawat&theme=radical" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RishabhRawat2003&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhRawat2003&theme=radical" alt="GitHub streak" height="165"/>
 </p>
 
 ---
