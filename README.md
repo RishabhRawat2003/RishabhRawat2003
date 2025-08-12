@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Rawat</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Scaling Backends & Cloud Deployment Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack </h3>
 
 ---
 
